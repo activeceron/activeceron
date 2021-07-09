@@ -7,4 +7,4 @@
 - 💬 Ask me about Electronics, microcontrollers, computers, open source, networks, servers...
 - ⚡ Fun fact: Self-taught.
 - 🌱 I'm currently learning various programming languages.
-- 📫 How to reach me: activeceron@gmail.com, activeceron.github.io.
+- 📫 How to reach me: activeceron.github.io.
